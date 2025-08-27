@@ -1,2 +1,3 @@
 # Sample.c
-first repositorie dude
+first repository
+dude
