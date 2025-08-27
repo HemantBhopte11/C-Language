@@ -1,3 +1,5 @@
 # Sample.c
 first repository
-dude
+dude 
+My name is Hemant Bhopte
+
