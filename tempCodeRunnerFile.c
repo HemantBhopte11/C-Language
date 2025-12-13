@@ -1,8 +1,7 @@
-include <stdio.h>
+#include <stdio.h>
 int main()
 {
-    int a = 20;
-    printf("%p",&a);
-    
-    return0;
+                         printf("Hello World");
+                         printf("\nHemant Bhopte");
+                         return 0;
 }
