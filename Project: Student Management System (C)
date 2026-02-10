@@ -64,3 +64,5 @@ void searchStudent() {
     scanf("%d", &roll);
 
     while (fread(&s, sizeof(s),
+return0;
+}
