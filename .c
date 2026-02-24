@@ -1,3 +1,3 @@
-*sample.c
+/*sample.c
 *samplefile.c 
 /**/
